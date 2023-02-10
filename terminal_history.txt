@@ -1,0 +1,685 @@
+  
+  328  pip -v
+  329  pip freez
+  330  pip freeze 
+  331  pip install fire
+  332  pip install questionnary
+  333  pip install questionary
+  334  pwd
+  335  cd desktop
+  336  ls
+  337  cd loan_qualifier_practice
+  338  mkdir test_folder
+  339  ls
+  340  touch fintech-file.tex
+  341  pip install fire
+  342  import fire
+  343  pip install fire
+  344  import fire
+  345  cd desktop
+  346  pip install fire
+  347  cd desktop
+  348  ls
+  349  pip install fire
+  350  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/complex_conditions.py
+  351  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  352  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  353  pip install fire
+  354  import fire
+  355  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  356  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  357  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  358  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  359  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  360  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  361  conda install fire
+  362  pip install fire
+  363  import fire
+  364  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  365  pip install fire
+  366  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  367  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  368  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  369  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  370  /usr/bin/python3 /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  371  python --version
+  372  pip show fire
+  373  /opt/anaconda3/bin/python /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  374  cd desktop
+  375  ls
+  376  cd fintech_workspace_2
+  377  ls
+  378  cd python_project
+  379  pip install fire
+  380  import fire
+  381  import os 
+  382  python update
+  383  update 
+  384  python version
+  385  python --version 
+  386  pip install fire
+  387  cd python project
+  388  cd python_project
+  389  cd desktop
+  390  cd ~
+  391  pwd
+  392  cd desktop
+  393  ls
+  394  cd fintech_workspace_2
+  395  ls
+  396  cd pyhton_project
+  397  cd python_project
+  398  conda activate dev
+  399  pip install fire
+  400  import fire
+  401  /opt/anaconda3/bin/python /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  402  pwd
+  403  ls
+  404  cd desktop
+  405  ls
+  406  cd Fintech_Workspace_2 
+  407  ls
+  408  cd python_project
+  409  conda activate dev
+  410  pip install questionary 
+  411  /opt/anaconda3/bin/python /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  412  /opt/anaconda3/bin/python /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  413  /opt/anaconda3/bin/python /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/cli.py
+  414  /opt/anaconda3/bin/python /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/dialog.py
+  415  /opt/anaconda3/bin/python /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/dialog.py
+  416  /opt/anaconda3/bin/python /Users/soheil/Desktop/Fintech_Workspace_2/Python_Project/dialog.py
+  417  pwd
+  418  cd desktop
+  419  cd ..
+  420  pwd
+  421  ls
+  422  cd module2_challenge
+  423  git clone https://github.com/sg3956/Module_2_Challlenge-.git 
+  424  git status
+  425  pwd 
+  426  cd desktop
+  427  ls
+  428  cd Fintech_Workspace_2 
+  429  ls
+  430  cd python project
+  431  cd python_project
+  432  pip install questionary 
+  433  git config --global user.name soheil gityforoze
+  434  git config --global user.email sg3956@columbia.edu
+  435  git config --list 
+  436  git config --global user.name soheil_gityforoze
+  437  git config --global user.email sg3956@columbia.edu  
+  438  git config --list  
+  439  pwd
+  440  cd ..
+  441  cd desktop
+  442  cd~
+  443  cd ~
+  444  pwd
+  445  cd desktop
+  446  cd module2_challenge
+  447  git config --global user.name Soheil_Gityforoze
+  448  git config --list 
+  449  git clone https://github.com/sg3956/Module_2_Challlenge-.git 
+  450  git clone https://github.com/sg3956/clone_practice.git 
+  451  pwd
+  452  cd desktop
+  453  cd 
+  454  pwd
+  455  cd desktop
+  456  cd clone_practice
+  457  https://github.com/sg3956/clone_practice.git 
+  458  git clone https://github.com/sg3956/clone_practice.git 
+  459  git status
+  460  git status
+  461  git status
+  462  pwd 
+  463  cd clone_practice
+  464  ls
+  465  cd README.md
+  466  git status
+  467  git add README.md
+  468  git status
+  469  git add README.md
+  470  git status
+  471  touch file_soheil.txt
+  472  ls
+  473  git status
+  474  git add file_soheil.text
+  475  git add soheil.text
+  476  ls
+  477  git add file_soheil.text
+  478  git status
+  479  git add file_soheil.text
+  480  git add file_soheil.txt 
+  481  git status
+  482  git commit -m "edited readme and added new text file"
+  483  git status
+  484  git push
+  485  git push
+  486  git push
+  487  git push
+  488  git push
+  489  git push
+  490  git remote set-url origin git@github.com:username/repo.git 
+  491  git remote -v 
+  492  git push
+  493  ssh://git@github.com/username/repo.git 
+  494  ssh://git@github.com/username/repo.git 
+  495  git push
+  496  pwd
+  497  git status
+  498  ls
+  499  git status
+  500  git push
+  501  ssh-keygen -p -f ~/.ssh/id_ed25519 
+  502  git push
+  503  git push
+  504  git remote set-url origin https://github.com/username/repository.git 
+  505  git push
+  506  git push
+  507  git push
+  508  git config --global user.name Soheil Gityforoze
+  509  git config --global sg3956@columbia.edu
+  510  git config --global user.name sg3956
+  511  git config --global user.name Soheil Gityforoze
+  512  git config --global user.email sg3956@columbia.edu
+  513  git push
+  514  ls
+  515  git status
+  516  git push
+  517  sudo port install gh 
+  518  brew install gh 
+  519  gh auth login 
+  520  git push
+  521  cd
+  522  pwd
+  523  pwd
+  524  ls
+  525  cd desktop
+  526  cd clone_practice
+  527  ls
+  528  ls
+  529  cd clone_practice
+  530  ls
+  531  git status
+  532  git status
+  533  git push
+  534  /usr/bin/python3 /Users/soheil/Desktop/Loan_Qualifier_App/loan_qualifier_app/app.py
+  535  pip install fire
+  536  /usr/bin/python3 /Users/soheil/Desktop/Loan_Qualifier_App/loan_qualifier_app/app.py
+  537  /opt/anaconda3/bin/python /Users/soheil/Desktop/Loan_Qualifier_App/loan_qualifier_app/app.py
+  538  /opt/anaconda3/bin/python /Users/soheil/Desktop/Loan_Qualifier_App/loan_qualifier_app/app.py
+  539  cd desktop
+  540  cd clone_practice
+  541  ls
+  542  cd clone_prcatice
+  543  cd clone_prcatice
+  544  cd ..
+  545  cd clone_prcatice
+  546  pwd
+  547  cd desktop
+  548  ls
+  549  cd clone_practice 
+  550  ls
+  551  cd clone_practice 
+  552  ls
+  553  git status
+  554  git push
+  555  git clone https://github.com/sg3956/clone_practice.git 
+  556  git status
+  557  git status
+  558  git add README.md
+  559  git status
+  560  touch file_soheil1.text
+  561  git status
+  562  git add file_soheil1.text 
+  563  git status
+  564  git commit " Added New File"!
+  565  git commit -m " Added new file\n\n\n'\n\n\n\n\n\n\n\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx
+  566  git status
+  567  git push
+  568  git clone https://github.com/sg3956/clone_practice.git 
+  569  git status
+  570  git push
+  571  gh auth login 
+  572  git push
+  573  git config --list
+  574  git config --global user.name Soheil Gityforoze
+  575  git config --global  user.email sg3956@columbia.edu
+  576  git config --list
+  577  git clone https://github.com/sg3956/clone_practice2.git 
+  578  ls
+  579  cd clone_practice2 
+  580  git clone https://github.com/sg3956/clone_practice2.git 
+  581  git status
+  582  git add README.nd
+  583  git add README.MD
+  584  git status
+  585  git status
+  586  git add READM.me
+  587  git add README.me
+  588  git add README.md
+  589  git status
+  590  touch file_sosol.text
+  591  ls
+  592  git status
+  593  git add file_sosol.text
+  594  git status
+  595  git commit -m "added new file
+  596  git commit -m "djdjdjdj"
+  597  git status
+  598  git push
+  599  pwd
+  600  cd desktop
+  601  cd ~
+  602  pwd
+  603  ls
+  604  CD desktop
+  605  ls
+  606  cd desktop
+  607  ls
+  608  cd \tLoan_Qualifier_App 
+  609  ls
+  610  cd loan_qualifier_app 
+  611  git clone https://github.com/sg3956/Loan_Qualifier_App.git 
+  612  git status
+  613  git status
+  614  git clone https://github.com/sg3956/Loan_Qualifier_App.git  
+  615  ls
+  616  cd Loan_Qualifier_App 
+  617  git clone https://github.com/sg3956/Loan_Qualifier_App.git  
+  618  git status
+  619  git add README.md
+  620  git status
+  621  cd ~
+  622  git config --global user.name Soheil_Gityforoze
+  623   git config --global user.name Soheil Gityforoze
+  624  git config --global user.sg3956@columbia.edu
+  625  git config --list
+  626  git clone https://github.com/sg3956/Loan_Qualifier_App.git 
+  627  cd desktop
+  628  cd loan_qualifier_app
+  629  ls
+  630  ls
+  631  cd loan_qualifier_app 
+  632  ls
+  633  cd Loan_Qualifier_App 
+  634  git clone https://github.com/sg3956/Loan_Qualifier_App.git 
+  635  git status
+  636  git add README.md
+  637  get status
+  638  git status
+  639  git push
+  640  git commit -m "Edited the README.md file"
+  641  git status
+  642  git push
+  643  git clone git@github.com:halamkim/project_01.git
+  644  cd
+  645  cd desktop
+  646  cd soheil gityforoze
+  647  ld
+  648  cd ~/Desktop/SoheilGityforoze
+  649  cd ~/Desktop/Soheil Gityforoze
+  650  cd desktop
+  651  cd
+  652  ls
+  653  pwd desktop
+  654  cd ~/Desktop/SoheilGityforoze\n
+  655  pwd
+  656  cd
+  657  cd desktop
+  658  cd soheil gityforoze
+  659  cd ~/Desktop/Soheil\ Gityforoze\n
+  660  git init
+  661  git add soheil gityforoze
+  662  git add Soheil Gityforoze
+  663  git add Soheil\ Gityforoze
+  664  git add
+  665  git addgit add Soheil\ Gityforoze/\n
+  666  git add Soheil\ Gityforoze/\n
+  667  git add -A Soheil\ Gityforoze/\n
+  668  cd ~/Desktop/Soheil\ Gityforoze
+  669  git init
+  670  git add Plot Performance
+  671  git add <Plot Performance>
+  672  git add README.me
+  673  git add Soheil\ Gityforoze/\n
+  674  git add SoheilGityforoze
+  675  cd ~/Desktop
+  676  git add Soheil\ Gityforoze/
+  677  git add SoheilGityforoze
+  678  cd desktop
+  679  CD SoheilGityforoze
+  680  git init
+  681  git add SoheilGityforoze
+  682  git commit -m "Initial commit"
+  683  git add SoheilGityforoze
+  684  git add SoheilGityforoze/
+  685  CD SoheilGityforoze
+  686  git init
+  687  git add SoheilGityforoze/
+  688  git add SoheilGityforoze/\n
+  689  git remote add
+  690  git remote add origin https://github.com/<halamkim>/<project_01>.git
+  691  cd ~/Desktop/SoheilGityforoze
+  692  git init
+  693  git add
+  694  git add .
+  695  git commit -m "Initial commit"
+  696  git remote add origin https://github.com/halamkim/project_01.git
+  697  git push -u origin main
+  698  git fetch origin
+  699  git merge origin/main
+  700  git add .
+  701  git commit -m "Resolving conflicts"
+  702  git push -u origin main
+  703  git push -u origin main
+  704  git add.
+  705  cd ~/Desktop/SoheilGityforoze
+  706  git add .
+  707  git commit -m "Adding all files"
+  708  git add .
+  709  git commit -m "Your commit message"
+  710  git push -u origin main
+  711  git pull origin main\n
+  712  git pull\n
+  713  git push\n
+  714  git push --set-upstream origin main
+  715  git pull origin main\n
+  716  $ git fetch origin\n
+  717  $ git fetch origin\n
+  718  git remote add origin https://github.com/halamkim/project_01.git\n
+  719  git add .
+  720  git commit -m "Adding my files to the reo"
+  721  git commit -m "Adding my files to the repo"
+  722  git push -u origin main
+  723  git pull
+  724  git pull
+  725  git pull main
+  726  git pull
+  727  git add .
+  728  git commit -m "Adding my files to the repo"
+  729  git push -u origin main
+  730  git fetch origin
+  731  git merge origin Soheil_Gityforoze
+  732  git pull
+  733  git branch --set-upstream-to=origin/<branch> main
+  734  git add .
+  735  git commit -m "Adding my files to the repo"\n
+  736  git push -u origin main
+  737  git push
+  738  git init
+  739  git add .
+  740  git commit -m "Initial commit"
+  741  git remote add origin <repository_URL>
+  742  git remote add origin <https://github.com/halamkim/project_01/>
+  743  ls
+  744  cd ..
+  745  git clone https://github.com/halamkim/project_01.git
+  746  git status
+  747  git add.
+  748  git status
+  749  git status
+  750  cd project_1
+  751  cd project_01
+  752  gig status
+  753  git status
+  754  git add.
+  755  git add .
+  756  git commit -m "Adding my files to the repo"
+  757  git push
+  758  git push
+  759  git status
+  760  git status
+  761  git add.
+  762  git add .
+  763  git commit -m
+  764  git commit -m "Adding my files to the repo"
+  765  git push
+  766  git push
+  767  git add .
+  768  git commit -m "Adding my files to the repo"
+  769  git push
+  770  git pull
+  771  git pull -p
+  772  git fetch origin\ngit reset --hard origin/main\ngit clean -f -d
+  773  git pull
+  774  git status
+  775  git add.
+  776  git add .
+  777  git commit -m " Adding my files to the repo"
+  778  git push
+  779  python -V
+  780  pip install fire
+  781  pip install questionary
+  782  pip -v
+  783  pip freeze
+  784  pip install fire
+  785  pip install questionary
+  786  conda activate dev
+  787  conda list scikit-learn\nconda list hvplot
+  788  # Check DataFrame data types\ndf_shopping.dtypes
+  789  cd desktop
+  790  cd /Users/soheil/Desktop/shopping_data.csv 
+  791  ls
+  792  cd shopping_data.csv
+  793  conda activate dev
+  794  conda install pandas
+  795  python
+  796  conda activate dev
+  797  jupyter lab
+  798  /opt/anaconda3/bin/python /Users/soheil/Desktop/Module_2_Lessons/Modul_2_Software_Development_Practice.py
+  799  /opt/anaconda3/bin/python /Users/soheil/Downloads/01_Loan_Qualifier_Financial_Calculations-3/Unsolved/app.py
+  800  /opt/anaconda3/bin/python /Users/soheil/Downloads/01_Loan_Qualifier_Financial_Calculations-3/Unsolved/app.py
+  801  /opt/anaconda3/bin/python /Users/soheil/Downloads/01_Loan_Qualifier_Financial_Calculations-3/Unsolved/app.py
+  802  /opt/anaconda3/bin/python "/Users/soheil/Desktop/Challenge 2 update/app.py"
+  803  /opt/anaconda3/bin/python "/Users/soheil/Desktop/Challenge 2 update/app.py"
+  804  conda activate dev
+  805  pip -v
+  806  pip freeze
+  807  pip install fire
+  808  pip install questionary
+  809  git config --global sg3956 <Soheil Gityforoze>
+  810  git config --global user.name Soheil Gityforoze
+  811  git config --global user.email sg3956@columbia.edu
+  812  git config --list
+  813  cd desktop
+  814  ls
+  815  cd Challenge 2 update
+  816  ls
+  817  cd desktop
+  818  ls
+  819  cd Challenge _2 _update
+  820  ls
+  821  cd Challenge2
+  822  git clone https://github.com/sg3956/Loan_Qualifier_App.git
+  823  pwd
+  824  git status
+  825  git add README.md
+  826  git clone https://github.com/sg3956/Loan_Qualifier_App.git\n
+  827  got clone https://github.com/sg3956/Loan_Qualifier_App.git
+  828  git clone https://github.com/sg3956/Loan_Qualifier_App.git
+  829  git clone https://github.com/sg3956/Loan_Qualifier_App.git\n
+  830  git status
+  831  git status
+  832  git add README.md 
+  833  ls
+  834  cd Loan_Qualifier_App
+  835  git add git add README.md
+  836  git add README.md
+  837  git status
+  838  git add README.md
+  839  git status
+  840  ls
+  841  git status
+  842  touch
+  843  git status
+  844  git commit -m "Adding the files into rep"
+  845  git status
+  846  git push
+  847  git add
+  848  git add Loan_Qualifier_App
+  849  ls
+  850  git add app.py
+  851  git add data
+  852  git add qualifier
+  853  git push
+  854  git status
+  855  git rebase -i HEAD~3
+  856  git status
+  857  git commit
+  858  cd desktop
+  859  ls
+  860  cd Challenge2
+  861  ls
+  862  cd Loan_Qualifier_App
+  863  git config --global user.name Soheil Gityforoze
+  864  git config --global user.email sg3956@columbia.edu
+  865  git config --list
+  866  git config --global user.name Soheil Gityforoze
+  867  git config --global user.email sg3956@columbia.edu
+  868  git config --list
+  869  git clone https://github.com/sg3956/Loan_Qualifier_App.git
+  870  git clone https://github.com/sg3956/Loan_Qualifier_App.git
+  871  cd desktop
+  872  ls
+  873  cd Challenge2
+  874  ls
+  875  cd Loan_Qualifier_App_V1
+  876  git clone https://github.com/sg3956/Loan_Qualifier_App.git
+  877  git status
+  878  ls
+  879  git add README.md
+  880  git status
+  881  git commit -m "Adding the initial version of README.md file"
+  882  git status
+  883  git push
+  884  git add README.md
+  885  git commit -m "Adding the initial version of README.md file"\n
+  886  git push
+  887  cd desktop
+  888  ls
+  889  cd Challenge2
+  890  ls
+  891  cd Loan_Qualifier_App_V1
+  892  ls
+  893  git init
+  894  git add README.md
+  895  git commit -m "Add initial version of README.md file"
+  896  git push origin main
+  897  git push Loan_Qualifier_App_V1 Loan_Qualifier_App
+  898  cd desktop
+  899  ls
+  900  cd Challenge2
+  901  ls
+  902  cd Loan_Qualifier_App_V1
+  903  git init
+  904  git add README.md
+  905  git commit -m "Adding inital version of README.md file"
+  906  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello-python.py
+  907  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello-python.py
+  908  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello-python.py
+  909  pwd
+  910  ls
+  911  cd desktop
+  912  ls
+  913  mkdir soheil_practice
+  914  ls
+  915  cd soheil_practice
+  916  ls
+  917  cd ..
+  918  cd ~
+  919  cd desktop
+  920  pwd 
+  921  ls
+  922  cd soheil_oractice
+  923  mkdir anothe_practice
+  924  ls
+  925  cd ..
+  926  cd desktop
+  927  cd soheil_practice
+  928  cd ~
+  929  cd soheil_project
+  930  cd desktop
+  931  ls
+  932  ls
+  933  cd soheil_practice
+  934  ls
+  935  cd python_project\n
+  936  ls
+  937  cd hello-python.py
+  938  conda activate dev
+  939  python --version
+  940  code .
+  941  code .
+  942  code .
+  943  ls
+  944  python hello-python.py
+  945  code .
+  946  code .
+  947  which code\n
+  948  cd ~
+  949  which code\n
+  950  deactivate dev
+  951  conda deactivate
+  952  which code
+  953  /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code .\n
+  954  code .
+  955  /opt/anaconda3/envs/dev/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello-python.py
+  956  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  957  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  958  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  959  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  960  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  961  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  962  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  963  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  964  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  965  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  966  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  967  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  968  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  969  /opt/anaconda3/bin/python /Users/soheil/Desktop/soheil_practice/python_project/hello_python.py
+  970  conda activate
+  971  conda activate dev
+  972  code .
+  973  cd desktop
+  974  ls
+  975  cd soheil_practice
+  976  ls
+  977  code .
+  978  python hello_python.py
+  979  code .
+  980  python hello-python.py
+  981  python hello_python.py
+  982  cd ~
+  983  cd desktop
+  984  ls
+  985  cd soheil_practice
+  986  code .
+  987  python hello_python.py
+  988  code .
+  989  python hello_python.py
+  990  cd ~
+  991  cd desktop
+  992  ls
+  993  cd soheil_practice
+  994  ls
+  995  ls
+  996  cd python_project
+  997  ls
+  998  activate conda dev
+  999  code .
+ 1000  python hello_python.py
+ 1001  conda activate dev
+ 1002  cd desktop
+ 1003  git clone https://github.com/sg3956/Loan_Qualifier_App.git
+ 1004  cd Loan_Qualifier_App
+ 1005  git status
+ 1006  git add .
+ 1007  git commit -m "Adding the folder to the repo"
+ 1008  git push origin main
+ 1009  git add .
+ 1010  git commit -m "Updating the README.me file"
+ 1011  git push origin main
