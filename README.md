@@ -45,7 +45,6 @@ To run the program, open the command line and typ
 [Results](https://github.com/sg3956/Loan_Qualifier_App/blob/main/Results_1.png)
 
 
-
 ---
 
 ## Contributors
