@@ -34,7 +34,19 @@ In order to install the required packages run the following commands in your ter
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+To run the program, open the command line and typ 
+`python app.py`
+ 
+ Then, the progam will ask to enter the path for Enter a file path to a rate-sheet (.csv)
+ In the following steps, the program will ask a series of questionaire:
+ Finally, the program will generate the results and ask if you want to save the in csv format:
+ 
+ [questionaire](https://github.com/sg3956/Loan_Qualifier_App/blob/main/Quetionaire.png)
+ 
+ [Results](https://github.com/sg3956/Loan_Qualifier_App/blob/main/Results_1.png)
+
+
+
 
 ---
 
