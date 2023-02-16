@@ -40,7 +40,7 @@ To run the program, open the command line and typ
  Then, the progam will ask to enter the path for a rate-sheet (.csv)
  In the following steps, the program will ask a series of questionaire Finally.The program will generate the results and ask if you want to save the results in csv format:
  
-[Questionaire](https://github.com/sg3956/Loan_Qualifier_App/blob/main/Quetionaire.png)
+[Questionaire](https://raw.githubusercontent.com/sg3956/Loan_Qualifier_App/main/Quetionaire.png)
 
 [Results](https://github.com/sg3956/Loan_Qualifier_App/blob/main/Results_1.png)
 
